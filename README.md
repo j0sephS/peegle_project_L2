@@ -9,6 +9,7 @@ I was responsible for:
 - Designing and implementing the main **menu interface**
 - Developing the **physics system** for the ball, including:
   - Rebounds
+  - Objects
   - Bounces
   - Scoring system
 
