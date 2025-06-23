@@ -1,9 +1,9 @@
-# Peegle Game Clone 🎯
+# Peegle Game
 
 This is a second-year undergraduate computer science project developed by a team of 5 students.  
 The objective was to recreate a version of the game **Peggle** using Java.
 
-## 👩‍💻 My Contribution
+## My Contribution
 
 I was responsible for:
 - Designing and implementing the main **menu interface**
@@ -13,7 +13,7 @@ I was responsible for:
   - Bounces
   - Scoring system
 
-## 🚀 How to Run the Game
+## How to Run the Game
 
 Make sure you are in the root directory of the project, then run:
 
